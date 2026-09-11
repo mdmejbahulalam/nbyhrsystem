@@ -1,0 +1,13 @@
+{
+  "appId": "com.nbyit.hrsystem",
+  "appName": "NBY HR System",
+  "webDir": "www",
+  "server": {
+    "url": "https://nbyhrsystem.byethost15.com",
+    "androidScheme": "https",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}

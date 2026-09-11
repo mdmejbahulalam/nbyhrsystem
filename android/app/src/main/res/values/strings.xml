@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NBY HR System</string>
+    <string name="title_activity_main">NBY HR System</string>
+    <string name="package_name">com.nbyit.hrsystem</string>
+    <string name="custom_url_scheme">com.nbyit.hrsystem</string>
+</resources>
